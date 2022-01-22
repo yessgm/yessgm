@@ -18,7 +18,7 @@
 
 
 ### Welcome to my GitHub! 😊  
-I am a first-generation college graduate and DREAMER and a resourceful problem-solver who is passionate about programming and maths. 
+I am a first-generation college graduate and DREAMER and a resourceful problem-solver who is passionate about programming and maths. Check out all of my work here on GitHub! 
   
   
 
