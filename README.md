@@ -51,3 +51,10 @@ I am a first-generation college graduate and DREAMER and a resourceful problem-s
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 </div>  
+
+#### 
+#### 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessgm" align="left" style="width: 30%" />
+</div>  
+ 
